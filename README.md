@@ -1,4 +1,4 @@
-# Python 初學家教教案
+# Putor-Beginner｜Python 初學者家教教案
 
 ## 學習內容目標
 
