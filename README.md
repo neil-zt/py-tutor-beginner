@@ -43,13 +43,13 @@
 
 ### 約五堂課｜用 Python 製作一基於 GPT 的角色扮演遊戲
 
-| 1. 複習上堂 | 2. 語法教學 | 3. 實際運用 | 
-| --- | --- | --- | 
-| Scratch 中的變數操作 | 介紹 Python 中的變數並帶入各種數字的運算方法，使用：`1-variables-and-numbers.ipynb`。多餘的時間可以操作 OpenAI 的介接介面，使用：`6-openai-api.ipynb`。 | 利用本堂課對變數與數字運算的所學，完成：（一）遊戲中的積分計算公式，以及（二）遊戲中自由落體的速度公式。 | 
-| Python 中的變數與數字運算 | 介紹 Python 中的字串與列表，使用：`2-strings-and-lists.ipynb`。 | 利用本堂課對字串與列表的所學，完成：（一）利用使用者名稱客製化遊戲中的對話，以及（二）利用列表記錄遊戲中的不同對話。 |
-| Python 中的字串與列表 | 介紹布林值的概念，以及 Python 中的判斷式語法：`3-booleans-and-conditionals.ipynb`。 | 待確定 |
-| Python 中的布林值與判斷式 | 介紹 Python 中的迴圈以及其和列表的關係，使用：`5-loops.ipynb`。 | 待確定 |
-| Python 中的迴圈 | 介紹 Python 中的函數，使用：`6-functions.ipynb`。 | 待確定 |
+| 課堂 | 1. 複習上堂 | 2. 語法教學 | 3. 實際運用 | 
+| --- | --- | --- | --- | 
+| 1 | Scratch 中的變數操作 | 介紹 Python 中的變數並帶入各種數字的運算方法，使用：`1-variables-and-numbers.ipynb`。| 利用本堂課對變數與數字運算的所學，完成：（一）遊戲中的積分計算公式，以及（二）遊戲中自由落體的速度公式。 | 
+| 2 | Python 中的變數與數字運算 | 介紹 Python 中的字串與列表，使用：`2-strings-and-lists.ipynb`。 | 利用本堂課對字串與列表的所學，完成：（一）利用使用者名稱客製化遊戲中的對話，以及（二）利用列表記錄遊戲中的不同對話。 |
+| 3 | Python 中的字串與列表 | 介紹布林值的概念，包括一些布林運算元，以及 Python 中的判斷式語法：`3-booleans-and-conditionals.ipynb`。 | 待確定 |
+| 4 | Python 中的布林值與判斷式 | 介紹 Python 中的迴圈以及其和列表的關係，使用：`4-loops.ipynb`。 | 待確定 |
+| 5 | Python 中的迴圈 | 介紹 Python 中的函數，包括不同的傳入值與回傳值，使用：`5-functions.ipynb`。 | 待確定 |
 
 ### 約兩堂課｜彈性安排以及課後的延伸補充
 
