@@ -43,11 +43,13 @@
 
 ### 約五堂課｜用 Python 製作一基於 GPT 的角色扮演遊戲
 
-| 1. 複習上堂 | 2. 語法教學（30分鐘） | 3. 實際運用 | 
+| 1. 複習上堂 | 2. 語法教學 | 3. 實際運用 | 
 | --- | --- | --- | 
 | Scratch 中的變數操作 | 介紹 Python 中的變數並帶入各種數字的運算方法，使用：`1-variables-and-numbers.ipynb`。多餘的時間可以操作 OpenAI 的介接介面，使用：`6-openai-api.ipynb`。 | 待確定 | 
 | Python 中的變數與數字運算 | 介紹 Python 中的字串與列表，使用：`2-strings-and-lists.ipynb`。 | 待確定 |
 | Python 中的字串與列表 | 介紹布林值的概念，以及 Python 中的判斷式語法：`3-booleans-and-conditionals.ipynb`。 | 待確定 |
+| Python 中的布林值與判斷式 | 介紹 Python 中的迴圈以及其和列表的關係，使用：`5-loops.ipynb`。 | 待確定 |
+| Python 中的迴圈 | 介紹 Python 中的函數，使用：`6-functions.ipynb`。 | 待確定 |
 
 ### 約兩堂課｜彈性安排以及課後的延伸補充
 
