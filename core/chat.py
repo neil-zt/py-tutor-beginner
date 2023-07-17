@@ -39,7 +39,6 @@ def ask(prompt: str) -> str:
     Ask a question to the OpenAI API. 
     """
     global messages_cache
-    print(messages_cache)
     messages_cache.append({"role": "user", "content": prompt})
     response = get_chat_response(messages_cache)
     messages_cache.append(response)
