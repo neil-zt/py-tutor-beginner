@@ -5,7 +5,7 @@ the reading and writing of files.
 
 import csv
 
-SECRETS_FILE = "../asset/secrets.csv"
+SECRETS_FILE = "asset/secrets.csv"
 
 def read_csv(filename):
     """
