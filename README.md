@@ -1,4 +1,9 @@
-# Putor-Beginner｜Python 初學者家教教案
+# Py-Tutor-Beginner｜Python 初學者家教教案
+
+快速連結：
+- [學習內容目標](#學習內容目標)
+- [課程內容概述](#課程內容概述)
+- [使用前的設定](#使用前的設定)
 
 ## 學習內容目標
 
@@ -60,4 +65,6 @@
 
 > 來源標註：部分課程內容文字來自[學呀的 Python 課程](https://zetria.tw/subject/python)
 
-### 問題集（`/problems`）
+### 問題集資料夾（`/problems`）
+
+## 使用前的設定
