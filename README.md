@@ -9,9 +9,10 @@
 - 變數的概念
 - 不同的資料型態
     - 數字：數字的運算（ `+`, `-`, `*`, `/`, `**` ）
-    - 字串：字串的處理（ `+`, `count()`****,**** `replace()`, `startswith()` ）
-    - 布林值：布林的運算（ `not`, `or`, `and`, `in` ）
+    - 字串：字串的處理（ `+` ）
+    - 布林值：布林的運算（ `not`, `or`, `and` ）
     - 列表：列表的處理（ `+` ）、列表的檢索（使用 `[i]` ）
+    - 比較運算：使用 `<`, `>`, `<=`, `>=`, `==`, `in` 
 
 ### 程式的控制流
 
@@ -37,13 +38,26 @@
 
 本課程不單純教授學生如何撰寫 Python 程式，而是以不同的**專案**為基礎，帶學生體驗軟體開發的過程。課程預計開始 Scratch 的圖形化程式介面，緩慢地引導至 Python 程式，並結合近期流行的 OpenAI GPT 模型，製作屬於學生自己的遊戲與聊天機器人。
 
-### 約兩堂課｜用 Scratch 製作一計分遊戲
+### 專案資料夾（`/project`）
 
-詳細內容尚未完成。
+本課程以專案為基礎，此資料夾中準備了數個 Scratch 與 Python 的專案：
+- **Scratch 專案**
+    - 計分遊戲（`scoring.sb3`）
+    - 循線車（`trace.sb3`）
+- **Python 專案**
+    - 
 
-### 約五堂課｜用 Python 製作一基於 GPT 的角色扮演遊戲
-詳細內容尚未完成。
+### 學習資料夾（`/core`）
 
-### 約兩堂課｜彈性安排以及課後的延伸補充
+學習資料夾中包含了六個檔案，讓學生循序漸進地理解程式的邏輯：
 
-詳細內容尚未完成。
+- `1-variables-and-numbers.ipynb`
+- `2-strings-and-lists.ipynb`
+- `3-booleans-and-conditionals.ipynb`
+- `4-loops.ipynb`
+- `5-functions.ipynb`
+- `6-openai-api.ipynb`
+
+> 來源標註：部分課程內容文字來自[學呀的 Python 課程](https://zetria.tw/subject/python)
+
+### 問題集（`/problems`）
