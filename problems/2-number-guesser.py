@@ -13,3 +13,5 @@ Your program should:
 1. Generate a secret number using generate_secret_number.
 2. Allow the player to input guesses and provide feedback using guess_number.
 """
+
+# Write your code here
