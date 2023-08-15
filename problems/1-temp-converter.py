@@ -15,4 +15,19 @@ Your program should:
 3. Display the converted temperature.
 """
 
-# Write your code here
+
+def celsius_to_fahrenheit(celsius):
+    return celsius * 9 / 5 + 32
+
+def fahrenheit_to_celsius(fahrenheit):
+    return (fahrenheit - 32) * 5 / 9
+
+
+temp_type = input("Enter the type of temperature you are entering (C or F): ")
+temp = float(input("Enter the temperature: "))
+
+if temp_type == "C":
+    print(celsius_to_fahrenheit(temp))
+if temp_type == "F":
+    print(fahrenheit_to_celsius(temp))
+
