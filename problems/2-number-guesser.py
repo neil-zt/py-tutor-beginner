@@ -15,4 +15,16 @@ Your program should:
 3. Give the user at most 5 tries.
 """
 
-# Write your code here
+import random
+
+answer = random.randint(1, 100)
+
+for i in range(7):
+    guess = int(input("Guess the number: "))
+    if guess > answer:
+        print("Your guess is too high!")
+    if guess < answer:
+        print("Your guess is too low!")
+    if guess == answer:
+        print("You guessed correctly!")
+        break
